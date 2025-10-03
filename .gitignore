@@ -1,0 +1,110 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage
+coverage/
+.nyc_output/
+lcov-report/
+
+# Build outputs
+dist/
+build/
+.cache/
+tmp/
+temp/
+
+# Tooling
+.eslintcache
+.tsbuildinfo
+
+# OS / Editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Env files
+.env
+.env.*
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json.bak
+
+# Test coverage
+coverage/
+.nyc_output/
+*.lcov
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.test
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Production artifacts
+*.tgz
+artifacts/output/
+artifacts/generated/
+
+# Generated files
+generated/
+*.generated.js
+*.generated.ts
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+.jest-cache/
+.coverage/
+
+# Misc
+.cache/
+.parcel-cache/
