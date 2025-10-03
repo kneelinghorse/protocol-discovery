@@ -38,7 +38,7 @@
     "graphology": "^0.26.0",
     "graphology-traversal": "^0.3.1",
     "inquirer": "^12.9.6",
-    "ora": "^7.0.1",
+    "ora": "^9.0.0",
     "pg": "^8.16.3"
   }
   ,
